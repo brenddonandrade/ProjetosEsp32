@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "conectandoDataBase",
+			"path": "conectandoDataBase"
+		},
+		{
+			"name": "connectingWifi",
+			"path": "connectingWifi"
+		}
+	],
+	"settings": {}
+}
